@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<%- include ('partials/header.ejs') %> 
+
+<body>
+    <div class="opacity-layer">
+        <div class="albums-container">
+            <% for( let i = 0; i < albumObj.length; i++ ) { %>
+            
+                <% if(albumObj.length > 1){ %>
+                    <a class="album-container" href="/albums/<%= albumObj[i].shortname  %>">
+                        <img src="<%=albumObj[i].artwork%>" width="500px" height="500px" alt=" Artwork <%= albumObj[i].artwork %>" BORDER = "0">
+                    </a>
+                <% } else { %>
+                <div class="album-container-no-hover">
+                    <img src="<%=albumObj[i].artwork%>" width="500px" height="500px" alt=" Artwork <%= albumObj[i].artwork %>" BORDER = "0">
+                </div>
+                    <% break; %>
+                <% } %>
+            <% } %>
+
+            <% if (albumObj.length == 1) { %>
+                <ul>
+                    <li class="info-box-title"><%= albumObj[0].albumname %> </li>
+                    <li class="info-box-elements"><%= albumObj[0].summary %> </li>
+                    <li class="info-box-elements-large">Songs on the Album:</li>
+                    <!-- <li class="info-box-elements"><%= albumObj[0].tracklist %></li>   -->
+                    <% for( let i = 0; i < albumObj[0].tracklist.length; i++ ) { %>
+                    <li class="info-box-songs"><%=albumObj[0].tracklist[i] %> </li>
+                    <% } %>
+                    <li class="info-box-elements"></li>
+                    <li class="info-box-elements"></li>
+                    <li class="info-box-elements"><a class="info-box-elements-aa" href="<%= albumObj[0].albumAM %>">Click here to purchase on Amazon!</a></li>  
+                    <li class="info-box-elements"><a class="info-box-elements-as" href="<%= albumObj[0].albumSM %>">Click here to listen on Spodify!</a></li>  
+                </ul>
+            <% } %>
+        </div>
+    </div>
+</body>
+</html>

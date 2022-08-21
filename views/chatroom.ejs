@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>socket.io</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<%- include ('partials/header.ejs') %> 
+
+<body>
+    <div class="opacity-layer">
+        <form>
+
+            <input class="usernameWMargin" type="text" id="chat">
+            <input class="submit"type="submit">
+        </form>
+
+
+        <ul id="messages">
+
+        </ul>
+
+        <!-- Install client side socket.io -->
+
+        <script src="/socket.io/socket.io.js"></script>
+
+        <script>
+
+            // setup a socket
+        let socket = io('http://localhost:3000')
+
+            const messages = document.getElementById('messages'); 
+            const form = document.querySelector('form');
+            const inputField = document.getElementById('chat')
+
+            form.addEventListener('submit', e=>{
+
+                e.preventDefault();
+
+                inputField.value = ""
+                
+                socket.emit('msgFromClient', inputField.value)
+
+
+            })
+
+            //emit a message from the server 
+        
+
+
+            //listen to incoming messages form the server
+
+            socket.on('msgFromServer', serverMessage=>{
+
+                //console.log(serverMessage);
+
+                let liTag = `<li  class="chat-block">${serverMessage}</li>`
+
+                messages.innerHTML = liTag + messages.innerHTML
+
+                inputField.textContent = "";
+            })
+
+            
+
+
+        </script>
+    </div>
+</body>
+</html>

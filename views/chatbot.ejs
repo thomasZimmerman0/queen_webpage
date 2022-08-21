@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<%- include ('partials/header.ejs') %> 
+
+<body>
+
+   <div class="opacity-layer">
+
+    <div class="site-container">
+
+        <div class="site-side">
+
+            <form id="CommentForm" class="feedback-form">
+
+        
+                <input class="username" name="username" id="username" type="text" autocomplete="off" placeholder="Enter your username">
+
+           
+                <input class="username" name="title" id="title" type="text"  placeholder="Enter a title for your message">
+    
+
+     
+                <textarea class="text-box"type="text" placeholder="Enter your message, then hit the submit" id="message"></textarea>
+ 
+
+     
+                <button class="submit" type="submit">Submit</button>
+  
+
+            </form>
+        </div>
+
+    <div class="site-side">
+
+        <div id="messageDisplay" class="messageDisplay" ></div>
+
+    </div>
+
+        <script src="js/chatbotClient.js"></script>
+        
+    </div>  
+
+</body>
+</html>

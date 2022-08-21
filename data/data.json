@@ -1,0 +1,154 @@
+{
+    "albums":[
+       {
+          "name":"Queen",
+          "shortname":"queen",
+          "albumname":"Queen (Queen album)",
+          "summary": "Queen is the debut studio album by the British rock band Queen. Released on 13 July 1973 by EMI Records in the UK and by Elektra Records in the US, it was recorded at Trident Studios and De Lane Lea Music Centre, London, with production by Roy Thomas Baker, John Anthony and the band members themselves.",
+          "artwork":"../pictures/Queen_Queen.png",
+          "tracklist":["Keep Yourself Alive", "Doing All Right", "Great King Rat", "My Fairy King", "Liar", "The Night Comes Down", "Modern Times Rock 'n' Roll", "Son And Daughter", "Jesus", "Seven Seas of Rhye"],
+          "albumAM":"https://www.amazon.com/Queen/dp/B000000OAL",
+          "albumSM":"https://open.spotify.com/album/5SSpz2RyyEhLt5FDymT4Ph"
+       },
+       {
+          "name":"Queen",
+          "shortname":"queen2",
+          "albumname":"Queen II",
+          "summary":"Queen II is the second studio album by the British rock band Queen. It was released on 8 March 1974 by EMI Records in the UK and Elektra Records in the US. It was recorded at Trident Studios and Langham 1 Studios, London, in August 1973 with co-producers Roy Thomas Baker and Robin Geoffrey Cable, and engineered by Mike Stone. It is significant for being the first album to contain elements of the band's signature sound of multi-layered overdubs, vocal harmonies, and varied musical styles.",
+          "artwork":"../pictures/Queen_II_(album_cover).jpg",
+          "tracklist":["Procession", "Father To Son", "White Queen", "Someday One Day", "The Loser In The End", "Ogre Battle", "The Fairy Fellers Masterstroke", "Nevermore", "The March Of The Black Queen","Funny How Love Is", "Seven Seas of Rhye"],
+          "albumAM":"https://www.amazon.com/Queen-II-Remastered/dp/B0052SNOLC/ref=sr_1_1?keywords=Queen+2&qid=1660829605&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/6Cg1pPfnfFXlR1qH2H6NDL"
+       },
+       {
+          "name":"Queen",
+          "shortname":"sheerheartattack",
+          "albumname":"Sheer Heart Attack",
+          "summary":"Sheer Heart Attack is the third studio album by the British rock band Queen, released on 8 November 1974 by EMI Records in the United Kingdom and by Elektra Records in the United States. Digressing from the progressive themes featured on their first two albums, the album featured more pop-centric and conventional rock tracks and marked a step towards the \"classic\" Queen sound.[2] It was produced by the band and Roy Thomas Baker, and launched Queen to mainstream popularity in the UK and throughout the world.",
+          "artwork":"../pictures/Queen_Sheer_Heart_Attack.png",
+          "tracklist":["Brighton Rock", "Killer Queen", "Tenement Funster", "Flick Of The Wrist", "Lily Of The Valley", "Now I'm Here", "In The Lap Of The Gods", "Stone Cold Crazy", "Dear Friends", "Misfire", "Bring Back That Leroy Brown", "She Makes Me (Stormtroopers In Stilettoes)", " In The Lap Of The Gods ... Revisited"],
+          "albumAM":"https://www.amazon.com/Sheer-Heart-Attack-Remastered-Queen/dp/B0052SNNG8/ref=sr_1_1?keywords=sheer+heart+attack&qid=1660830066&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/5CooX2xg5YibepSfjbRFNT"
+       },
+       {
+          "name":"Queen",
+          "shortname":"anightattheopera",
+          "albumname":"A Night At The Opera",
+          "summary":"A Night at the Opera is the fourth studio album by the British rock band Queen, released on 21 November 1975 by EMI Records in the United Kingdom and by Elektra Records in the United States. Produced by Roy Thomas Baker and Queen, it was reportedly the most expensive album ever recorded at the time of its release.",
+          "artwork":"../pictures/Queen_A_Night_At_The_Opera.png",
+          "tracklist":["Death On Two Legs (Dedicated To ...)", "Lazing On A Sundy Afternoon", "I'm In Love With My Car", "You're My Best Friend", "'39", "Sweet Lady", "Seaside Rendezvous", "The Prophet's Song", "Love Of My Life", "Good Company", "Bohemian Rhapsody", "God Save The Queen"],
+          "albumAM":"https://www.amazon.com/Night-at-Opera-QUEEN/dp/B00TPEDN9M/ref=sr_1_1?keywords=a+night+at+the+opera&qid=1660830364&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4"
+       },
+       {
+          "name":"Queen",
+          "shortname":"adayattheraces",
+          "albumname":"A Day At The Races",
+          "summary":"A Day at the Races is the fifth studio album by the British rock band Queen, released on 10 December 1976 by EMI Records in the United Kingdom and by Elektra Records in the United States. Recorded at The Manor, Sarm East, and Wessex Sound Studios in England, it was the band's first completely self-produced album, and the first completed without the involvement of producer Roy Thomas Baker; engineering duties were handled by Mike Stone. It serves as a companion to Queen's previous album, A Night at the Opera, with both taking their names from Marx Brothers films and having similar packaging and eclectic musical themes.",
+          "artwork":"../pictures/A_Day_at_the_Races_(Queen).jpg",
+          "tracklist":["Tie Your Mother Down", "You Take My Breath Away", "Long Away", "The Millionaire Waltz", "You And I", "Somebody To Love", "White Man", "Good Old Fashioned Lover Boy", "Drowse", "Teo Torriatte (Let Us Cling Together)"],
+          "albumAM":"https://www.amazon.com/Day-At-Races-Remastered/dp/B0052SNP52/ref=sr_1_1?keywords=a+day+at+the+races&qid=1660830556&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/4kmYoWtWvAIS43KwGuRb50"
+       },
+       {
+          "name":"Queen",
+          "shortname":"newsoftheworld",
+          "albumname":"News Of The World",
+          "summary":"News of the World is the sixth studio album by the British rock band Queen, released on 28 October 1977 by EMI Records in the United Kingdom and by Elektra Records in the United States. News of the World was the band's second album to be recorded at Sarm and Wessex Sound Studios in London, and engineered by Mike Stone, and was co-produced by the band and Stone.",
+          "artwork":"../pictures/Queen_News_Of_The_World.png",
+          "tracklist":["We Will Rock You", "We Are the Champions", "Sheer Heart Attack", "All Dead, All Dead", "Spread Your Wings", "Fight From The Inside", "Get Down, Make Love", "Sleeping on the Sidewalk", "Who Needs You", "It's Late", "My Melancholy Blues"],
+          "albumAM":"https://www.amazon.com/News-World-Vinyl-Queen/dp/B002E2M3KM/ref=sr_1_2?keywords=news+of+the+world+queen&qid=1660830831&s=music&sr=1-2",
+          "albumSM":"https://open.spotify.com/album/3TKTjR4E3LAMfRsPeRsNhT"
+       },
+       {
+          "name":"Queen",
+          "shortname":"jazz",
+          "albumname":"Jazz",
+          "summary":"Jazz is the seventh studio album by the British rock band Queen. It was released on 10 November 1978 by EMI Records in the United Kingdom and by Elektra Records in the United States. Produced by Roy Thomas Baker, the album artwork was suggested by Roger Taylor, who previously saw a similar design painted on the Berlin Wall.[8] The album's varying musical styles were alternately praised and criticised. It reached number two in the UK Albums Chart and number six on the US Billboard Top LPs & Tape chart.",
+          "artwork":"../pictures/Queen_Jazz.png",
+          "tracklist":["Mustapha", "Fat Bottomed Girls", "Jealousy", "Bicycle Race", "If You Can't Beat Them", "Let Me Entertain You", "Dead On Time", "In Only Seven Days", "Dreamers Ball", "Fun It", "Leaving Home Ain't Easy", "Don't Stop me Now", "More Of That Jazz"],
+          "albumAM":"https://www.amazon.com/Jazz-Queen/dp/B000000OAH/ref=sr_1_1?keywords=jazz+queen&qid=1660831083&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE"
+       },
+       {
+          "name":"Queen",
+          "shortname":"thegame",
+          "albumname":"The Game",
+          "summary":"The Game is the eighth studio album by the British rock band Queen. It was released on 30 June 1980 by EMI Records in the UK and by Elektra Records in the US. The Game features a different sound from its predecessor, Jazz (1978). The Game was the first Queen album to use a synthesizer[6] (an Oberheim OB-X).",
+          "artwork":"../pictures/Queen_The_Game.png",
+          "tracklist":["Play The Game", "Dragon Attack", "Another One Bites the Dust", "Need Your Loving Tonight", "Crazy Little Thing Called Love", "Rock It (Prime Jive)", "Don't Try Suicide", "Sail Away Sweet Sister", "Coming Soon", "Save Me"],
+          "albumAM":"https://www.amazon.com/Queen/dp/B000000OAL",
+          "albumSM":"https://open.spotify.com/album/5SSpz2RyyEhLt5FDymT4Ph"
+       },
+       {
+          "name":"Queen",
+          "shortname":"flashgordon",
+          "albumname":"Flash Gordon",
+          "summary":"Flash Gordon is the ninth studio album and first soundtrack album by the British rock band Queen, released on 8 December 1980 by EMI Records in the UK and on 27 January 1981 by Elektra Records in the US. It was one of two film soundtracks that they produced along with Highlander. It is the soundtrack to the science fiction film Flash Gordon and features lyrics on only two tracks. \"Flash's Theme\" was the only single to be released from the album, under the title \"Flash\". The album reached number 10 on the UK charts and number 23 in the US. The album was reissued worldwide on 27 June 2011 (excluding the US and Canada, where it was released on 27 September) as part of the band's 40th anniversary.[9][10] The reissue adds an EP of related tracks.",
+          "artwork":"../pictures/Queen_Flash_Gordon.png",
+          "tracklist":["Flash's Theme", "In The Space Capsule", "Ming's Theme", "The Ring", "Football Fight", "In The Death Cell", "Execution Of Flash", "The Kiss", "Arboria", "Escape From The Swamp", "Flash To The Rescue", "Vultan's Theme", "Battle Theme", "The Wedding March", "Marriage Of Dale And Ming", "Crash Dive On Mingo City", "Flash's Theme Reprise", "The Hero"],
+          "albumAM":"https://www.amazon.com/Flash-Gordon-Soundtrack-Queen/dp/B000000OBF/ref=sr_1_1?keywords=flash+gordon&qid=1660832418&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/2SS9qutxzz0XZf4zmoQVdx"
+       },
+       {
+          "name":"Queen",
+          "shortname":"hotspace",
+          "albumname":"Hot Space",
+          "summary":"Queen is the debut studio album by the British rock band Queen. Released on 13 July 1973 by EMI Records in the UK and by Elektra Records in the US, it was recorded at Trident Studios and De Lane Lea Music Centre, London, with production by Roy Thomas Baker, John Anthony and the band members themselves.",
+          "artwork":"../pictures/Queen_Hot_Space.png",
+          "tracklist":["Staying Power", "Dancer", "Back Chat","Body Language", "Action This Day", "Put Out The Fire", "Life Is Real (Song For Lennon)", "Calling All Girls", "Las Palabras De Amor (The Words of Love)", "Cool Cat", "Under Pressure"],
+          "albumAM":"https://www.amazon.com/Hot-Space-Queen/dp/B000000OAE/ref=sr_1_1?keywords=hot+space&qid=1660832918&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
+       },
+       {
+          "name":"Queen",
+          "shortname":"theworks",
+          "albumname":"The Works",
+          "summary":"The Works is the eleventh studio album by the British rock band Queen. It was released on 27 February 1984 by EMI Records in the United Kingdom and it is the band's first studio album to be released by Capitol Records in the United States. After the synth-heavy Hot Space (1982), the album saw the re-emergence of Brian May and Roger Taylor's rock sound, while still incorporating the early 80s retro futuristic electronic music (Freddie Mercury) and New York funk scenes (John Deacon). Recorded at the Record Plant Studios in Los Angeles, California, and Musicland Studios in Munich, Germany, from August 1983 to January 1984, the album's title comes from a comment Taylor made as recording began \"Let's give them the works!\".",
+          "artwork":"../pictures/Queen_The_Works.png",
+          "tracklist":["Radio Ga Ga", "Tear It Up", "It's A Hard Life","Man On The Prowl", "Machines (Back To Humans)", "I Want To Break Free", "Keep Passing The Open Windows", "Hammer To Fall", "Is This The World We Created?"],
+          "albumAM":"https://www.amazon.com/Works-Queen/dp/B000000OBL/ref=sr_1_1?keywords=the+works+queen&qid=1660833153&s=music&sr=1-1",
+          "albumSM":"https://open.spotify.com/album/0FbnXAGmgmWBmNthZSgm43"
+       },
+       {
+          "name":"Queen",
+          "shortname":"akindofmagic",
+          "albumname":"A Kind Of Magic",
+          "summary":"A Kind of Magic is the twelfth studio album by the British rock band Queen, released on 2 June 1986 by EMI Records in the UK and by Capitol Records in the US. It is based on the soundtrack to the film Highlander, directed by Russell Mulcahy.",
+          "artwork":"../pictures/Queen_A_Kind_Of_Magic.png",
+          "tracklist":["One Vision", "A Kind Of Magic", "One Year Of Love", "Pain Is So Close to Pleasure", "Friends Will Be Friends", "Who Wants To Live Forever", "Gimme The Prize (Murgans Theme)", "Don't Lose Your Head", "Princes Of The Universe"],
+          "albumAM":"https://www.amazon.com/Kind-Magic-Vinyl-Queen/dp/B002E2M3L6/ref=sr_1_2?keywords=A+kind+of+magic&qid=1660833370&s=music&sr=1-2",
+          "albumSM":"https://open.spotify.com/album/34xBXeJgmQrn1wQvhyVCsw"
+       },
+       {
+          "name":"Queen",
+          "shortname":"themiracle",
+          "albumname":"The Miracle",
+          "summary":"The Miracle is the thirteenth studio album by the British rock band Queen, released on 22 May 1989 by Parlophone Records and Capitol Records in both the United Kingdom and the USA, respectively, where it was the band's first and final studio album to be released on those respective labels. The album was recorded as the band recovered from Brian May's marital problems and Freddie Mercury's HIV diagnosis in 1987 (which was known to the band, though not publicised at the time). Recording started in January 1988 and lasted for an entire year. The album was originally going to be called The Invisible Men, but three weeks before the release, according to Roger Taylor, they changed the name to The Miracle. It was also the last Queen album with a photo of the band on the front cover.",
+          "artwork":"../pictures/Queen_The_Miracle.png",
+          "tracklist":["Party", "Khashoggis Ship", "The Miracle", "I Want It All", "The Invisible Man", "Breakthrou", "Rain Must Fall", "Scandal", "My Baby Does Me", "Was It All Worth It"],
+          "albumAM":"https://www.amazon.com/Miracle-Queen/dp/B00UZUUA8C/ref=sr_1_3?keywords=the+miracle&qid=1660833872&s=music&sr=1-3",
+          "albumSM":"https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9"
+       },
+       {
+          "name":"Queen",
+          "shortname":"innuendo",
+          "albumname":"Innuendo",
+          "summary":"Innuendo is the fourteenth studio album by the British rock band Queen, released on 4 February 1991 by Parlophone in the United Kingdom[4] and it is the band's first studio album to be released by Hollywood Records in the United States. Produced by David Richards and the band, it was the band's last album to be released in lead singer Freddie Mercury’s lifetime, and their most recent one to be composed of entirely new material. It reached the No. 1 spot on the UK album charts and stayed at that position for two weeks, and also peaked at No. 1 in Italy, the Netherlands, Germany, and Switzerland, staying at No. 1 for three weeks, four weeks, six weeks, and eight weeks, respectively. It was the first Queen album to go Gold in the US upon its release since The Works in 1984.",
+          "artwork":"../pictures/Queen_Innuendo.png",
+          "tracklist":["Innuendo", "I'm Going Slightly Mad", "Headlong", "I Can't Live With You", "Don't Try So Hard", "Ride The Wild Wind", "All God's People", "These Are The Days Of Our Lives", "Delilah", "The Hitman", "Bijou", "The Show Must Go On"],
+          "albumAM":"https://www.amazon.com/Queen/dp/B000000OAL",
+          "albumSM":"https://open.spotify.com/album/5SSpz2RyyEhLt5FDymT4Ph"
+       },
+       {
+          "name":"Queen",
+          "shortname":"madeinheaven",
+          "albumname":"Made In Heaven",
+          "summary":"Made in Heaven is the fifteenth and final studio album by the British rock band Queen, released on 6 November 1995 by Parlophone Records in the United Kingdom and by Hollywood Records in the United States. It was the band's first and only release after the death of lead singer Freddie Mercury in 1991. Following Mercury's death, guitarist Brian May, drummer Roger Taylor, and bass guitarist John Deacon worked with vocal and piano parts that Mercury recorded before his death, adding new instrumentation to the recordings. Both stages of recording, before and after Mercury's death, were completed at the band's studio in Montreux, Switzerland. The album debuted at number 1 in the UK, where it went quadruple platinum selling 1.2 million copies. 500,000 copies were shipped in the United States.",
+          "artwork":"../pictures/Madeinheaven.jpg",
+          "tracklist":["It's A Beautiful Day", "Made In Heaven", "Let Me Live", "Mother Love", ".My Life Has Been Saved", "I Was Born To Love You", "Heaven For Everyone", "Too Much Love Will Kill You", "You Don't Fool Me", "TA Winter's Tale", "It's A Beautiful Day (Reprise)"],
+          "albumAM":"https://www.amazon.com/Made-Heaven-2-CD-Deluxe/dp/B006OAB6GW/ref=sr_1_2?keywords=made+in+heaven&qid=1660835659&s=music&sr=1-2",
+          "albumSM":"https://open.spotify.com/album/2SFIh6siY4KYBNPHAV7xaI"
+       }
+    ]
+ }
